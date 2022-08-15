@@ -1,0 +1,27 @@
+.form {
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.search__form {
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.search__input {
+    width: 400px;
+    height: 33px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    font-size: 18px;
+}
+
+.search__icon {
+    padding-left: 4px;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
