@@ -2,4 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     border: 1px 0 0 0 solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
