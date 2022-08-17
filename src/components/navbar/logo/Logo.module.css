@@ -3,4 +3,5 @@
     font-weight: 700;
     color: purple;
     text-transform: uppercase;
+    display: flex;
 }
